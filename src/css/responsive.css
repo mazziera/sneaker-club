@@ -1,0 +1,65 @@
+@media (max-width: 320px) {
+  .wrap .container-items .image-item img {
+    width: 40px;
+  }
+
+  .infos h1 {
+    font-size: 15px;
+  }
+
+  .infos p {
+    width: 100%;
+    font-size: var(--font-size-base);
+  }
+}
+
+@media (min-width: 768px) {
+  .main-image {
+    background: url("/src/imagens/01-Principal_Desktop.jpg") no-repeat center /
+      cover;
+  }
+
+  .wrap {
+    justify-content: center;
+  }
+
+  .wrap .container-items .image-item img {
+    width: 80px;
+    height: 80px;
+  }
+
+  .arrow-button img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .banner .infos {
+    width: 100%;
+    transition: all 0.7s ease-in;
+  }
+
+  .banner .infos:hover {
+    opacity: 1;
+  }
+}
+
+@media (min-width: 1024px) {
+  .wrap .arrow-button {
+    opacity: 1;
+  }
+
+  .banners {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .banner .infos {
+    opacity: 0;
+    transition: all 0.7s ease-in;
+  }
+
+  .banners .minor-banners {
+    margin-right: 30px;
+  }
+}

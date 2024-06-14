@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+body{
+    min-height: 100vh;
+}
