@@ -18,9 +18,9 @@ const containerImages = document.getElementById("container-images");
 const imageLoader = (images, container) => {
   images.forEach((image) => {
     container.innerHTML += `
-            <article class = "image-item">
+            <section class = "image-item">
             <a href="#"><img src="${image.url}" /></a>
-            </article>
+            </section>
         `;
   });
 };

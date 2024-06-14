@@ -1,6 +1,7 @@
-@media (max-width: 320px) {
+@media (max-width: 320px){
   .wrap .container-items .image-item img {
     width: 40px;
+    padding: 0 3px;
   }
 
   .infos h1 {
@@ -11,6 +12,13 @@
     width: 100%;
     font-size: var(--font-size-base);
   }
+}
+
+@media (min-width: 321px) and (max-width: 430px) {
+    .wrap .container-items .image-item img {
+       
+        padding: 0 35px;
+      }
 }
 
 @media (min-width: 768px) {
@@ -34,7 +42,7 @@
   }
 
   .banner .infos {
-    width: 100%;
+    
     transition: all 0.7s ease-in;
   }
 
@@ -43,7 +51,7 @@
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 820px) {
   .wrap .arrow-button {
     opacity: 1;
   }
