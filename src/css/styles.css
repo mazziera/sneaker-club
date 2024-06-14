@@ -6,6 +6,7 @@ body {
 
 .main-image {
   width: 100vw;
+  background: linear-gradient(to right, #333, #ccc);
 }
 
 .main-image img {
@@ -58,6 +59,15 @@ body {
 .arrow-button img {
   width: 10px;
   height: 10px;
+  transition: transform 0.3s ease-in-out; 
+  -webkit-transition: transform 0.3s ease-in-out;
+  -moz-transition: transform 0.3s ease-in-out; 
+  -o-transition: transform 0.3s ease-in-out; 
+}
+
+.arrow-button img:hover,
+.arrow-button img:focus {
+  transform: scale(1.2);
 }
 
 #previous-arrow {
