@@ -22,7 +22,7 @@
 </b>
 e criar a melhor <b>plataforma</b>
 para marcas e sellers. <br>
- Com um design moderno e responsivo que oferece aos usuários uma experiência de navegação agradável e intuitiva. Aqui estão as principais funcionalidades e características do projeto:
+ Com um design moderno e responsivo que oferece aos usuários uma experiência de navegação agradável e intuitiva. Abaixo, estão  listadas as principais funcionalidades e características do projeto:
 
 ### Barra de Navegação de Produtos com Setas Laterais
 
@@ -59,6 +59,7 @@ para marcas e sellers. <br>
 
 - <b>HTML5:</b> Para a estruturação semântica da página.
 - <b>SEO:</b> Para  melhorar a visibilidade e o ranking do site nos resultados de pesquisa orgânica em mecanismos de busca.
+- <b>Mobile First</b>: Para melhorar a experiência do usuário e performance da aplicação.
 - <b>CSS3:</b> Para estilização, incluindo Flexbox e media queries para responsividade.
 - <b>JavaScript Vanilla:</b> Para a interatividade e dinamismo da navegação de produtos.
 - <b>Visual Studio:</b> IDE utilizada como ambiente de desenvolvimento da aplicação.
