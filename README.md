@@ -26,7 +26,7 @@ para marcas e sellers. <br>
 
 ### Barra de Navegação de Produtos com Setas Laterais
 
-- A página possui uma área de exibição de logos de diversas marcas, onde os usuários podem navegar utilizando setas laterais (esquerda e direita). As setas permitem que o usuário explore diferentes produtos ou marcas de forma dinâmica.
+- A página possui uma área de exibição de logos de diversas marcas, onde os usuários podem navegar utilizando setas laterais (esquerda e direita). As setas permitem que o usuário explore diferentes marcas de forma dinâmica.
 
 ### Banners de Promoções e Coleções:
 
@@ -42,7 +42,7 @@ para marcas e sellers. <br>
 
 ### Compatibilidade entre Navegadores:
 
-- O projeto utiliza técnicas de compatibilidade entre navegadores, como vendor prefixes e fallbacks, para garantir que a experiência seja consistente em diversos navegadores populares.
+- O projeto utiliza técnicas de compatibilidade entre navegadores, fallbacks, para garantir que a experiência seja consistente em diversos navegadores populares.
 
 
 ### Screenshot
